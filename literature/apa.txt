@@ -24,3 +24,14 @@
   year={2021},
   publisher={Elsevier}
 }
+
+@article{abu2023strategies,
+  title={Strategies of translating swear words into Arabic: a case study of a parallel corpus of Netflix English-Arabic movie subtitles},
+  author={Abu-Rayyash, Hussein and Haider, Ahmad S and Al-Adwan, Amer},
+  journal={Humanities and Social Sciences Communications},
+  volume={10},
+  number={1},
+  pages={1--13},
+  year={2023},
+  publisher={Palgrave}
+}
