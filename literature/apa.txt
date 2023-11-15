@@ -1,0 +1,26 @@
+@article{guillot2023doing,
+  title={Doing swearing across languages--The curious case of subtitling},
+  author={Guillot, Marie-No{\"e}lle},
+  journal={Journal of Pragmatics},
+  volume={215},
+  pages={41--54},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{corpas2018laughing,
+  title={Laughing one's head off in Spanish subtitles: a corpus-based study on diatopic variation and its consequences for translation},
+  author={Corpas Pastor, Gloria},
+  year={2018},
+  publisher={John Benjamins}
+}
+
+@article{abdelaal2021subtitling,
+  title={Subtitling strategies of swear words and taboo expressions in the movie “Training Day”},
+  author={Abdelaal, Noureldin Mohamed and Al Sarhani, Amani},
+  journal={Heliyon},
+  volume={7},
+  number={7},
+  year={2021},
+  publisher={Elsevier}
+}
