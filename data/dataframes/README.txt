@@ -6,7 +6,15 @@ raw_methods.csv
 		SOFTENING. A sanitization method. Changes a swear word or phrase into something weaker.
 		OMISSION. A sanitization method. Removes a swear word entirely.
 		RETENTION. A non-sanitization method. The swear word is maintained as a direct translation or modulation.
-	SEX. The data is also categorized if there is a mention of a sex/sexuality (1 = related to sex, 0 = unrelated to sex).
+	SEX. The data is also categorized if there is a mention of a sex/sexuality.
+		1 = related to sex.
+		0 = unrelated to sex.
 	SEX_RETAINED. If the sexual reference is retained in the translation at the same vulgarity level.
+		1 = sexual reference retained.
+		0 = sexual reference omitted.
 	LOCALIZATION. Whether the subtitles are for Spain or Latin America.
 	SUBTITLES. Which subtitle file is used from the data>subtitles folder.
+		1 = Latino_1
+		2 = Latino_2
+		3 = Spain_1
+		4 = Spain_2

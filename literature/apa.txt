@@ -35,3 +35,91 @@
   year={2023},
   publisher={Palgrave}
 }
+
+@article{pavesi2022reception,
+  title={The reception of swearing in film dubbing: a cross-cultural case study},
+  author={Pavesi, Maria and Zamora, Pablo},
+  journal={Perspectives},
+  volume={30},
+  number={3},
+  pages={382--398},
+  year={2022},
+  publisher={Taylor \& Francis}
+}
+
+@article{dobao2006linguistic,
+  title={Linguistic and cultural aspects of the translation of swearing: he Spanish version of Pulp Fiction1},
+  author={Dobao, Ana Mar{\'\i}a Fern{\'a}ndez},
+  year={2006}
+}
+
+@article{valdeon2020swearing,
+  title={Swearing and the vulgarization hypothesis in Spanish audiovisual translation},
+  author={Valde{\'o}n, Roberto A},
+  journal={Journal of Pragmatics},
+  volume={155},
+  pages={261--272},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{valdeon2015ab,
+  title={The (ab) use of taboo lexis in audiovisual translation: Raising awareness of pragmatic variation in English-Spanish},
+  author={Valde{\'o}n, Roberto A},
+  journal={Intercultural Pragmatics},
+  volume={12},
+  number={3},
+  pages={363--385},
+  year={2015},
+  publisher={De Gruyter}
+}
+
+@article{scheu1998analysis,
+  title={An analysis of sociocultural miscommunication: English, Spanish and German},
+  author={Scheu-Lottgen, U Dagmar and Hern{\'a}ndez-Campoy, Juan M},
+  journal={International Journal of Intercultural Relations},
+  volume={22},
+  number={4},
+  pages={375--394},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{dewaele2010christ,
+  title={Christ fucking shit merde!},
+  author={Dewaele, Jean-Marc},
+  journal={Language preferences for swearing among maximally proficient multilinguals. Sociolinguistic Studies},
+  volume={4},
+  number={3},
+  pages={595--614},
+  year={2010}
+}
+
+@article{jacob2006dirty,
+  title={Dirty words and ‘fancy trash’: Translating French obscenity},
+  author={Jacob, Benjamin},
+  journal={French Studies Bulletin},
+  volume={27},
+  number={101},
+  pages={103--106},
+  year={2006},
+  publisher={Oxford University Press}
+}
+
+@book{pavesi2005traduzione,
+  title={La traduzione filmica. Aspetti del parlato doppiato dall'inglese all'italiano},
+  author={Pavesi, MARIA GABRIELLA and others},
+  year={2005},
+  publisher={Carocci}
+}
+
+@article{valdeon2008alienation,
+  title={Alienation techniques in screen translation: The role of culture specifics in the reconstruction of target-culture discourse},
+  author={Valde{\'o}n, Roberto A},
+  journal={Languages in Contrast},
+  volume={8},
+  number={2},
+  pages={208--234},
+  year={2008},
+  publisher={John Benjamins}
+}
