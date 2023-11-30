@@ -123,3 +123,17 @@
   year={2008},
   publisher={John Benjamins}
 }
+
+@article{landau1984dictionaries,
+  title={Dictionaries: The art and craft of lexicography},
+  author={Landau, Sidney I},
+  journal={(No Title)},
+  year={1984}
+}
+
+@book{moreno2019variedades,
+  title={Variedades de la lengua espa{\~n}ola},
+  author={Moreno-Fern{\'a}ndez, Francisco},
+  year={2019},
+  publisher={Routledge}
+}
