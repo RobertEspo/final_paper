@@ -137,3 +137,14 @@
   year={2019},
   publisher={Routledge}
 }
+
+@article{fuentes2019approach,
+  title={An approach to audio-visual translation and the film industry in Spain and Latin America},
+  author={Fuentes-Luque, Adri{\'a}n},
+  journal={Bulletin of Spanish Studies},
+  volume={96},
+  number={5},
+  pages={815--834},
+  year={2019},
+  publisher={Taylor \& Francis}
+}
