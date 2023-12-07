@@ -148,3 +148,26 @@
   year={2019},
   publisher={Taylor \& Francis}
 }
+
+@book{hughes2015encyclopedia,
+  title={An encyclopedia of swearing: The social history of oaths, profanity, foul language, and ethnic slurs in the English-speaking world},
+  author={Hughes, Geoffrey},
+  year={2015},
+  publisher={Routledge}
+}
+
+@article{toury2012descriptive,
+  title={Descriptive translation studies: And beyond},
+  author={Toury, Gideon},
+  journal={Descriptive Translation Studies},
+  pages={1--366},
+  year={2012},
+  publisher={John Benjamins Publishing Company}
+}
+
+@book{gavela2015grammar,
+  title={The grammar and lexis of conversational informal English in advanced textbooks},
+  author={Gavela, Mar{\'\i}a Dolores Fern{\'a}ndez},
+  year={2015},
+  publisher={Cambridge scholars publishing}
+}
