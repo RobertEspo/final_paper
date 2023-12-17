@@ -171,3 +171,15 @@
   year={2015},
   publisher={Cambridge scholars publishing}
 }
+
+@book{ethnologue,
+  title = {Ethnologue: Languages of the World},
+  year = {2009},
+  researchr = {https://researchr.org/publication/ethnologue},
+  cites = {0},
+  citedby = {0},
+  edition = {Sixteenth},
+  editor = {M. Paul Lewis},
+  address = {Dallas, TX, USA},
+  publisher = {SIL International},
+}
